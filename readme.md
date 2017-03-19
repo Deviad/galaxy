@@ -1,4 +1,4 @@
-USER MANUAL
+Galaxy Multilanguage Event Management System -  MANUAL
 ==============
 
 In order to use the application you have to point apache to the “public” folder of Laravel. 
