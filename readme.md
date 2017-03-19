@@ -5,7 +5,7 @@ In order to use the application you have to point apache to the “public” fol
 --------------
 
 - Create a database called “galaxy”;
--	if you are unable to use your root account in your development environment, create an account and set the .env in the Laravel root folder accordingly.
+-	Create an account to access the previously created database and set the .env in the Laravel root folder accordingly.
 -	Configure Apache config file in order to set up your vhost environment or just use localhost later on.
 -	From within your Laravel project folder run: “php artisan migrate”
 -	Run “php artisan db:seed” in order to populate the database with 2 mockup events
